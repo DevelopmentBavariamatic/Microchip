@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1af0c1806aed88e2dc58b03f6d8a5391f3892b8105963d505d7c90fc56edb344
-size 374
+## Bavariamatic development
+
+This repository contains the latest software versions from Microchip among others:
+| Software | Version|
+| :-------- | :--------: |
+| MPLAB X       | 6.20 |
+| MPLAB XC8     | 2.46 |
+| MPLAB XC16    | 2.10 |
+| MPLAB XC32    | 4.40 |
+| MPLAB XC-DSC  | 3.10 |
+
+> [!NOTE] 
+> This repository provides help for building Docker container.
